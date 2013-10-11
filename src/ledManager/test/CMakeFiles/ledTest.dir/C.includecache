@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sandesh/work-sandesh/raspberry-pi-app/src/ledManager/test/../led_pub.h
+
+/home/sandesh/work-sandesh/raspberry-pi-app/src/ledManager/test/led_test.c
+stdio.h
+-
+stdlib.h
+-
+../led_pub.h
+/home/sandesh/work-sandesh/raspberry-pi-app/src/ledManager/test/../led_pub.h
+

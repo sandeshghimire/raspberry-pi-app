@@ -29,5 +29,6 @@
 
 int get_led_socket(void)
 {
-	return 0;
+
 }
+
