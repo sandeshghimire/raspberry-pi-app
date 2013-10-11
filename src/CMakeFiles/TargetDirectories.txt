@@ -1,3 +1,0 @@
-/home/sandesh/work-sandesh/raspberry-pi-app/src/ledManager/test/CMakeFiles/ledTest.dir
-/home/sandesh/work-sandesh/raspberry-pi-app/src/ledManager/CMakeFiles/ledd.dir
-/home/sandesh/work-sandesh/raspberry-pi-app/src/ledManager/CMakeFiles/rasp_led_lib.dir
