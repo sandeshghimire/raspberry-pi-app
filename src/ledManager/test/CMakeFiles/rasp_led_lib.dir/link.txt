@@ -1,1 +1,0 @@
-/usr/bin/gcc  -fPIC    -shared -Wl,-soname,librasp_led_lib.so -o ../../lib/librasp_led_lib.so CMakeFiles/rasp_led_lib.dir/led_socket.c.o CMakeFiles/rasp_led_lib.dir/led_lib.c.o -lrt -lpthread 

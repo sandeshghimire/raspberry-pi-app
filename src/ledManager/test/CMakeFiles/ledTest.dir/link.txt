@@ -1,1 +1,0 @@
-/opt/rp/cc/bin/arm-buildroot-linux-uclibcgnueabi-gcc      CMakeFiles/ledTest.dir/led_test.c.o  -o ../../bin/ledTest -rdynamic ../../lib/librasp_led_lib.so -lrt -lpthread -Wl,-rpath,/home/sandesh/work-sandesh/raspberry-pi-app/src/lib 
