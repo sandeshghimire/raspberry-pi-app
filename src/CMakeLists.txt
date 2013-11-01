@@ -7,4 +7,13 @@ set(EXECUTABLE_OUTPUT_PATH ${PROJECT_BINARY_DIR}/bin)
 set(LIBRARY_OUTPUT_PATH ${PROJECT_BINARY_DIR}/lib)
 add_definitions(-DUSER_INTERACT)
 add_subdirectory(ledManager ) 
+add_subdirectory(gpsManager) 
 set(ledd)
+set(gpsd)
+
+add_custom_target(clean-all
+   COMMAND ${CMAKE_COMMAND} -P clean-all.cmake
+)
+
+
+
